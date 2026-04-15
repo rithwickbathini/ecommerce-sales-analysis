@@ -1,7 +1,6 @@
 ## 📊 Dashboard Preview
 
 ![Dashboard](dashboard_overview.png.png)
-revenue_trend montly.png
 # 📊 E-commerce Sales Analysis Dashboard
 
 ## 🔍 Project Overview
