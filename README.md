@@ -1,6 +1,5 @@
 ## 📊 Dashboard Preview
-
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](images/dashboard_overview.png.png)
 # 📊 E-commerce Sales Analysis Dashboard
 
 ## 🔍 Project Overview
